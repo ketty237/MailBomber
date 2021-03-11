@@ -7,7 +7,7 @@ $ apt upgrade
 $ apt update
 $ pkg install git
 $ pkg install python2
-$ git clone https://github.com/DarkCurut08/MailBomber
+$ git clone https://github.com/ketty237/MailBomber
 $ cd MailBomber
 $ python2 Moreno77.py
 ```
